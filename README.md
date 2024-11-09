@@ -1,6 +1,6 @@
 # Ecommerce_Testing
 
-This is the project where we use Selenium with python and pytest framework to test the Ecommerce like application. We test E2E of the application with different types of testing methods.4
+This is the project where we use Selenium with python and pytest framework to test the Ecommerce like application. We test E2E of the application with different types of testing methods. Here we use POM to optimize the code to easily understandable and readble.
 
 
 **
